@@ -12,7 +12,6 @@ BOT_NAME = 'crawler_ecommerce'
 SPIDER_MODULES = ['crawler_ecommerce.spiders']
 NEWSPIDER_MODULE = 'crawler_ecommerce.spiders'
 
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'crawler_ecommerce (+http://www.yourdomain.com)'
 
